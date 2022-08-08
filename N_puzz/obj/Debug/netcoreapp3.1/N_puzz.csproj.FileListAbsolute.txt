@@ -1,0 +1,78 @@
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+C:\Users\vip\source\repos\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+C:\Users\vip\source\repos\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
+D:\Documents\SC 3rd 2\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+D:\vip\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
+D:\vip\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\Abdelrahman Rashad\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
+D:\vip\WalkingLowPoly\N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.exe
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.deps.json
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.json
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.runtimeconfig.dev.json
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\bin\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csprojAssemblyReference.cache
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfoInputs.cache
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.AssemblyInfo.cs
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.csproj.CoreCompileInputs.cache
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.dll
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.pdb
+D:\Documents\SC 3rd 2\Algo\[3] N Puzzle\final_final_final_N_puzz\N_puzz\N_puzz\obj\Debug\netcoreapp3.1\N_puzz.genruntimeconfig.cache
