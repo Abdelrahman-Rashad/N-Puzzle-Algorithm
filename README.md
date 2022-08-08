@@ -1,4 +1,4 @@
-# N-Puzzle-Algorithm-
+# N-Puzzle-Algorithm
 The N-puzzle (N = 8, 15...) is a classical problem for modelling algorithms involving heuristics. Commonly used heuristics for this problem include counting the number of misplaced tiles (Hamming Distance) OR finding the sum of the Manhattan distances between each block and its position in the goal configuration. Note that both are admissible, i.e. they never overestimate the number of moves left, which ensures optimality for certain search algorithms such as A*. A* is one of the informed search algorithms that can be used in such problems to get the optimal solution. 
 
 ## Aiming
